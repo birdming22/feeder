@@ -1,0 +1,12 @@
+{
+  "interface": "eth0",
+  "target_ip": "8.8.8.8",
+  "ping_interval": 30,
+  "ping_count": 5,
+  "network_monitor_interval": 10,
+  "report_interval": 60,
+  "udp_server": {
+    "ip": "127.0.0.1",
+    "port": 8080
+  }
+}
